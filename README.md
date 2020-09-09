@@ -22,5 +22,3 @@ General
     How to commit
     How to write helpful commit messages
     How to push code
-
-Updating as per Step 3 of 0x003.Git
